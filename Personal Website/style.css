@@ -1,0 +1,219 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(nn.jpg);
+}
+body img{
+   
+    height: 100%;
+    width: 100%;
+  
+
+}
+
+body div.social img{
+    width: 5%;
+    height: 5%;
+    color: #ffa500;
+    line-height: 30px;
+    margin-top:20px;
+    border: none;
+    
+    margin: 10px;
+    padding: 20px 0 0 55px;
+    margin-left: -50px;
+}
+.state{
+    
+      padding-left: 600px;
+      padding-bottom: 40PX;
+      
+      
+
+  }
+.state .text1{
+    color: #ffffff;
+    padding-top: 20px;
+    padding-left: 270px;
+    
+}
+.skills{
+    font-family: MONTSERRAT;
+    font-size: 24px;
+    color:orange;
+    padding-left: 600px; 
+   
+    padding-bottom: 30px;
+    padding-top: 0px;
+    margin-top: 60px;
+     
+
+}
+.UX{
+    font-family: MONTSERRAT;
+    font-size: 20px;
+    color:#ffffff;
+    padding-left: 600px; 
+   
+}
+ .presonal_info{
+   font-family: MONTSERRAT ;
+   color: orange;
+
+   line-height: 30px;
+   padding-left: 70px;
+  margin-top: -400px;
+
+    }
+    .presonal_info img{
+        border-radius: 5%;
+        border: solid 5px orange;
+        width: 24%;
+        height: auto;
+        padding-top: 0px;
+         margin-top: 60px;
+         
+       
+
+    }
+    .info{
+        color: rgb(255, 255, 255);
+        display: inline;
+        font-size: 20px;
+    }
+    hr{
+        color:#ffffff;
+        width: 320px;
+        margin-right: 1000px;
+      border-style: groove;
+    }
+    .overview{
+        font-family: MONTSERRAT;
+        font-size: 24px;
+        color: rgb(255, 255, 255);
+        padding-left: 70px;
+
+    }
+    H4{
+        
+        font-family: MONTSERRAT;
+        font-size: 24PX;
+        color: orange;
+        padding-left: 70px;
+    }
+    .item1{
+        width: 22%;
+        height: 50%;
+    }
+    .item2{
+        width: 22%;
+        height: 50%;
+    }
+    .item3{
+        width: 22%;
+        height: 50%;
+    }
+    .item4{
+        width: 22%;
+        height: 50%;
+    }
+    .item5{
+        width: 22%;
+        height: 50%;
+    }
+    .item6{
+        width: 22%;
+        height: 50%;
+    }
+    .item7{
+        width: 22%;
+        height: 50%;
+    }
+    .item8{
+        width: 22%;
+        height: 50%;
+    }
+    .portfolio{
+       
+        padding-left: 70px;
+    }
+    H2{
+        
+        font-family: MONTSERRAT;
+        font-size: 24px;
+        color: orange;
+     
+    }
+        
+
+          .Rectangle-6 {
+
+            width: 300px;
+            height: 10.1px;
+            border-radius: 22px;
+            background-color: #dedede;
+            /*margin-left: 100px;*/
+            
+            
+            
+        }
+        .Rectangle-5 {
+
+            width: 80%;
+            height: 10.1px;
+            border-radius: 22px;
+            background-color: orange;
+            
+          
+          }
+        .Rectangle-x {
+            width: 75%;
+            height: 10.1px;
+            border-radius: 22px;
+            background-color: orange;
+            
+          
+        }
+
+        .Rectangle-y {
+            width: 70%;;
+            height: 10.1px;
+            border-radius: 22px;
+            background-color: orange;
+            
+          
+        }
+        .Rectangle-z {
+            width: 60%;
+            height: 10.1px;
+            border-radius: 22px;
+            background-color: orange;
+            
+          
+        }
+        
+        
+         
+    
+    
+     
+
+  
+      
+      .text1{
+        width: 32px;
+        height: 23px;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.56;
+        letter-spacing: normal;
+        text-align: center;
+        color: #2f2f2f;
+        padding-left:170PX;
+        padding-bottom:80PX; 
+        
+      }
+      
